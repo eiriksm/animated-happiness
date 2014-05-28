@@ -4,35 +4,36 @@ animated-happiness
 An alphabetic list over things I want to try (or have tried) out.
 
 ## A
-Angular
+- Angular
 
 ## C
-Cassandra
-Coffeescript
+- Cassandra
+- Coffeescript
 
 ## D
-Dart (server and client)
+- Dart (client)
+- Dart on the server
 
 ## E
-Erlang
+- Erlang
 
 ## G
-Go
+- Go
 
 ## H
-hapi.js
-Haskell
+- hapi.js
+- Haskell
 
 ## L
-LevelDB
+- LevelDB
 
 ## R
-R
-React.js
-Riak
+- R
+- React.js
+- Riak
 
 ## T
-Typescript
+- Typescript
 
 ## V
-Vert.x
+- Vert.x
