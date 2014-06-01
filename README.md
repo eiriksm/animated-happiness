@@ -4,14 +4,14 @@ animated-happiness
 An alphabetic list over things I want to try (or have tried) out.
 
 ## A
-- Angular
+- [Angular](https://angularjs.org/) [level-crash](https://github.com/eiriksm/level-crash)
 
 ## C
 - Cassandra
-- Coffeescript
+- [Coffeescript](http://coffeescript.org/) [cloaked-dangerzone](https://github.com/eiriksm/cloaked-dangerzone)
 
 ## D
-- Dart (client)
+- Dart (client) (angular-dart) [cloaked-dangerzone](https://github.com/eiriksm/cloaked-dangerzone)
 - Dart on the server
 
 ## E
