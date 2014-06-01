@@ -8,12 +8,14 @@ An alphabetic list over things I want to try (or have tried) out.
   - [level-crash](https://github.com/eiriksm/level-crash)
 
 ## C
-- Cassandra
+- [Cassandra](http://cassandra.apache.org/)
 - [Coffeescript](http://coffeescript.org/)
   - [cloaked-dangerzone](https://github.com/eiriksm/cloaked-dangerzone)
+- [CouchDB](http://couchdb.apache.org/)
+  - [brewers-beard](https://github.com/eiriksm/brewers-beard)
 
 ## D
-- Dart (client) (angular-dart)
+- [Dart (client - angular-dart)](https://angulardart.org/)
   - [cloaked-dangerzone](https://github.com/eiriksm/cloaked-dangerzone)
 - Dart on the server
 
@@ -21,22 +23,23 @@ An alphabetic list over things I want to try (or have tried) out.
 - Erlang
 
 ## G
-- Go
+- [Go](http://golang.org/)
 
 ## H
-- hapi.js
+- [hapi.js](https://github.com/spumko/hapi)
 - Haskell
 
 ## L
-- LevelDB
+- [LevelDB](https://code.google.com/p/leveldb/)
 
 ## R
-- R
+- [R](http://www.r-project.org/)
+  - [r-lang](https://github.com/eiriksm/r-lang)
 - React.js
-- Riak
+- [Riak](http://basho.com/riak/)
 
 ## T
-- Typescript
+- [Typescript](http://www.typescriptlang.org/)
 
 ## V
-- Vert.x
+- [Vert.x](http://vertx.io/)
