@@ -1,11 +1,15 @@
 animated-happiness
 ==================
 
-An alphabetic list over things I want to try (or have tried) out.
+An alphabetic list over things (technologies / libraries and such) I want to try (or have tried) out.
 
 ## A
 - [AngularJS](https://angularjs.org/)
   - [level-crash](https://github.com/eiriksm/level-crash)
+
+## B
+- [Browserify](http://browserify.org/)
+  - [commit-a-day](https://github.com/eiriksm/commit-a-day)
 
 ## C
 - [Cassandra](http://cassandra.apache.org/)
@@ -33,10 +37,16 @@ An alphabetic list over things I want to try (or have tried) out.
 ## L
 - [LevelDB](https://code.google.com/p/leveldb/)
 
+## M
+- [Mithril](lhorie.github.io/mithril/)
+  - [commit-a-day](https://github.com/eiriksm/commit-a-day)
+  - [kyll-thrill](https://github.com/eiriksm/kyll-thrill)
+
 ## R
 - [R](http://www.r-project.org/)
   - [r-lang](https://github.com/eiriksm/r-lang)
 - React.js
+- [RethinkDB](http://rethinkdb.com)
 - [Riak](http://basho.com/riak/)
 
 ## T
