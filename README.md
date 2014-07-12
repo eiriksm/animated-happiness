@@ -28,6 +28,7 @@ An alphabetic list over things I want to try (or have tried) out.
 ## H
 - [hapi.js](https://github.com/spumko/hapi)
 - Haskell
+- Haproxy
 
 ## L
 - [LevelDB](https://code.google.com/p/leveldb/)
