@@ -41,6 +41,9 @@ An alphabetic list over things (technologies / libraries and such) I want to try
 - [Mithril](lhorie.github.io/mithril/)
   - [commit-a-day](https://github.com/eiriksm/commit-a-day)
   - [kyll-thrill](https://github.com/eiriksm/kyll-thrill)
+  - [orkjern_theme](https://github.com/eiriksm/orkjern_theme)
+- [msx](https://github.com/insin/msx)
+  - [orkjern_theme](https://github.com/eiriksm/orkjern_theme)
 
 ## R
 - [R](http://www.r-project.org/)
