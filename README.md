@@ -31,6 +31,7 @@ An alphabetic list over things (technologies / libraries and such) I want to try
 
 ## H
 - [hapi.js](https://github.com/spumko/hapi)
+  - [turnt-octo-bear](https://github.com/eiriksm/turnt-octo-bear)
 - Haskell
 - Haproxy
 
@@ -48,8 +49,10 @@ An alphabetic list over things (technologies / libraries and such) I want to try
 ## R
 - [R](http://www.r-project.org/)
   - [r-lang](https://github.com/eiriksm/r-lang)
-- React.js
+- [React.js](http://facebook.github.io/react/)
+  - [turnt-octo-bear](https://github.com/eiriksm/turnt-octo-bear)
 - [RethinkDB](http://rethinkdb.com)
+  - [turnt-octo-bear](https://github.com/eiriksm/turnt-octo-bear)
 - [Riak](http://basho.com/riak/)
 
 ## T
