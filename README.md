@@ -60,3 +60,6 @@ An alphabetic list over things (technologies / libraries and such) I want to try
 
 ## V
 - [Vert.x](http://vertx.io/)
+
+## W
+- [Webpack](http://webpack.github.io/)
