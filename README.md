@@ -39,6 +39,7 @@ An alphabetic list over things (technologies / libraries and such) I want to try
 - [LevelDB](https://code.google.com/p/leveldb/)
 
 ## M
+- [Material design - angular](https://github.com/angular/material)
 - [Mithril](lhorie.github.io/mithril/)
   - [commit-a-day](https://github.com/eiriksm/commit-a-day)
   - [kyll-thrill](https://github.com/eiriksm/kyll-thrill)
