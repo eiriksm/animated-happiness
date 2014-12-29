@@ -46,6 +46,8 @@ An alphabetic list over things (technologies / libraries and such) I want to try
   - [orkjern_theme](https://github.com/eiriksm/orkjern_theme)
 - [msx](https://github.com/insin/msx)
   - [orkjern_theme](https://github.com/eiriksm/orkjern_theme)
+## N
+- [Nim](http://nim-lang.org/index.html)
 
 ## R
 - [R](http://www.r-project.org/)
