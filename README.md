@@ -22,6 +22,7 @@ An alphabetic list over things (technologies / libraries and such) I want to try
 - [Dart (client - angular-dart)](https://angulardart.org/)
   - [cloaked-dangerzone](https://github.com/eiriksm/cloaked-dangerzone)
 - Dart on the server
+- [Deku](https://github.com/segmentio/deku)
 
 ## E
 - Erlang
