@@ -26,6 +26,7 @@ An alphabetic list over things (technologies / libraries and such) I want to try
 
 ## E
 - Erlang
+- [Electron](http://electron.atom.io/)
 
 ## G
 - [Go](http://golang.org/)
